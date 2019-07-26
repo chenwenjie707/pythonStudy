@@ -28,4 +28,18 @@ List 和 Tuple:
 	list.pop（index）删除list索引为index的元素
 
   tuple元组的元素获取方法同list 但是tuple的元素是不可变的
+
+for-if:
+  if <条件判断1>:
+      <执行1>
+  elif <条件判断2>:
+      <执行2>
+  elif <条件判断3>:
+      <执行3>
+  else:
+      <执行4>
   
+ names = ['Michael', 'Bob', 'Tracy']
+ for name in names:
+     print name
+ 
